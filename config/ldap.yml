@@ -1,0 +1,15 @@
+enabled: true
+ldapHost: ""
+ldapPort: 636
+use_tls: true
+bindDN: ""
+userSearchBase: ""
+userNameAttribute: "CN"
+userMailAttribute: ""
+userObjectClass: ""
+groupSearchBase: ""
+groupAttribute: ""
+groupObjectClass: ""
+origin: ldap
+insecure_skip_verify: ""
+ca_cert: ((ldap_ca_cert)) 

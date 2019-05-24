@@ -1,0 +1,33 @@
+enable-delete-isolation-segments: false
+enable-unassign-security-groups: false
+enable-service-access: true
+running-security-groups:
+- default_security_group
+staging-security-groups:
+- default_security_group
+shared-domains:
+  adl.alabama.aaa.com:
+    internal: false
+  adl.autoclubmo.aaa.com:
+    internal: false
+  adl.calif.aaa.com:
+    internal: false
+  adl.eastcentral.aaa.com:
+    internal: false
+  adl.hawaii.aaa.com:
+    internal: false
+  adl.newmexico.aaa.com:
+    internal: false
+  adl.northernnewengland.aaa.com:
+    internal: false
+  adl.texas.aaa.com:
+    internal: false
+  adl.tidewater.aaa.com:
+    internal: false
+  apps.adl.aceclublab.com:
+    internal: false
+  apps.internal:
+    internal: true
+  web.adl.aceclublab.com:
+    internal: false
+enable-remove-shared-domains: true

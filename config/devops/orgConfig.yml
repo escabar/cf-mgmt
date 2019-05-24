@@ -1,0 +1,58 @@
+org: devops
+org-billingmanager:
+  ldap_users: []
+  users: []
+  saml_users: []
+  ldap_groups: []
+org-manager:
+  ldap_users: []
+  users:
+  - admin
+  saml_users: []
+  ldap_groups: []
+org-auditor:
+  ldap_users: []
+  users: []
+  saml_users: []
+  ldap_groups: []
+private-domains: []
+enable-remove-private-domains: false
+shared-private-domains: []
+enable-remove-shared-private-domains: false
+enable-org-quota: false
+enable-remove-users: false
+default_isolation_segment: ""
+service-access:
+  app-autoscaler:
+  - standard
+  credhub:
+  - default
+  newrelic:
+  - NewRelicStandardPlan
+  nfs: []
+  nfs-experimental: []
+  p-circuit-breaker-dashboard:
+  - standard
+  p-cloudcache:
+  - extra-small
+  - dev-plan
+  p-config-server:
+  - standard
+  p-rabbitmq:
+  - standard
+  p-redis:
+  - dedicated-vm
+  - shared-vm
+  p-service-registry:
+  - standard
+  p.mysql:
+  - db-large
+  - db-xlarge
+  - db-xxlarge
+  - db-small
+  - db-medium
+  p.rabbitmq:
+  - single-node-3.7
+  p.redis:
+  - service-tier-plan1
+named_quota: default

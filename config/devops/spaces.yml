@@ -1,0 +1,4 @@
+org: devops
+spaces:
+- dev
+enable-delete-spaces: true
