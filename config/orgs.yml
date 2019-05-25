@@ -1,7 +1,6 @@
 orgs:
 - devops
 - test
-- yasmins-org
 enable-delete-orgs: true
 protected_orgs:
 - system
