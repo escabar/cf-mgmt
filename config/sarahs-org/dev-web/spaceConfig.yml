@@ -9,6 +9,7 @@ space-developer:
 space-manager:
   ldap_users:
   - sarah
+  - nura
   users: []
   saml_users: []
   ldap_groups: []
