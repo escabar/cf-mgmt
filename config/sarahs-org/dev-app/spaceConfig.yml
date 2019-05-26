@@ -3,6 +3,8 @@ space: dev-app
 space-developer:
   ldap_users:
   - sarah
+  - nura
+  - yasmin
   users: []
   saml_users: []
   ldap_groups: []
