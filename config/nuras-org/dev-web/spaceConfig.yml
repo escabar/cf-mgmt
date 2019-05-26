@@ -1,17 +1,20 @@
 org: nuras-org
 space: dev-web
 space-developer:
-  ldap_users: []
+  ldap_users:
+  - patel.suleman
   users: []
   saml_users: []
   ldap_groups: []
 space-manager:
-  ldap_users: []
+  ldap_users:
+  - patel.suleman
   users: []
   saml_users: []
   ldap_groups: []
 space-auditor:
-  ldap_users: []
+  ldap_users:
+  - patel.suleman
   users: []
   saml_users: []
   ldap_groups: []
