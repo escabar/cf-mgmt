@@ -1,0 +1,33 @@
+org: rays-org
+org-billingmanager:
+  ldap_users:
+  - ray
+  users: []
+  saml_users: []
+  ldap_groups: []
+org-manager:
+  ldap_users: []
+  users: []
+  saml_users: []
+  ldap_groups: []
+org-auditor:
+  ldap_users: []
+  users: []
+  saml_users: []
+  ldap_groups: []
+private-domains: []
+enable-remove-private-domains: true
+shared-private-domains: []
+enable-remove-shared-private-domains: true
+enable-org-quota: false
+instance-memory-limit: unlimited
+enable-remove-users: true
+total_private_domains: unlimited
+total_reserved_route_ports: "0"
+total_service_keys: unlimited
+app_instance_limit: unlimited
+app_task_limit: unlimited
+default_isolation_segment: ""
+service-access: {}
+named_quota: ""
+metadata: null
