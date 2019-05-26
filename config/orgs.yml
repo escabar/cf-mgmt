@@ -3,6 +3,7 @@ orgs:
 - test
 - yasmins-org
 - nuras-org
+- sarahs-org
 enable-delete-orgs: true
 protected_orgs:
 - system
