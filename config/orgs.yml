@@ -4,6 +4,7 @@ orgs:
 - yasmins-org
 - nuras-org
 - sarahs-org
+- sips-org
 enable-delete-orgs: true
 protected_orgs:
 - system
