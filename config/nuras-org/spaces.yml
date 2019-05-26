@@ -2,4 +2,5 @@ org: nuras-org
 spaces:
 - dev-app
 - dev-web
+- qa-app
 enable-delete-spaces: true

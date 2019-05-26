@@ -8,6 +8,7 @@ org-billingmanager:
 org-manager:
   ldap_users:
   - suleman.nura
+  - patel.suleman
   users: []
   saml_users: []
   ldap_groups: []
