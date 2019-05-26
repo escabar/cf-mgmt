@@ -2,6 +2,7 @@ orgs:
 - devops
 - test
 - yasmins-org
+- nuras-org
 enable-delete-orgs: true
 protected_orgs:
 - system
