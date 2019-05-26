@@ -1,3 +1,4 @@
 org: mamas-org
-spaces: []
+spaces:
+- dev-app
 enable-delete-spaces: true
