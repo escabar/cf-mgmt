@@ -2,4 +2,5 @@ org: sarahs-org
 spaces:
 - dev-app
 - dev-web
+- ""
 enable-delete-spaces: true
