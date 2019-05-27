@@ -2,16 +2,19 @@ org: cats-org
 org-billingmanager:
   ldap_users:
   - cat
+  - cats
   users: []
   saml_users: []
   ldap_groups: []
 org-manager:
-  ldap_users: []
+  ldap_users:
+  - cats
   users: []
   saml_users: []
   ldap_groups: []
 org-auditor:
-  ldap_users: []
+  ldap_users:
+  - cats
   users: []
   saml_users: []
   ldap_groups: []
