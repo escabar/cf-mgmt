@@ -6,6 +6,7 @@ orgs:
 - sarahs-org
 - sips-org
 - mamas-org
+- cats-org
 enable-delete-orgs: true
 protected_orgs:
 - system
