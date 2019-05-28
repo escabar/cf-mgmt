@@ -3,4 +3,5 @@ spaces:
 - dev-app
 - ""
 - test-web
+- test2-web
 enable-delete-spaces: true
