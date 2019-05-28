@@ -12,7 +12,8 @@ org-manager:
   saml_users: []
   ldap_groups: []
 org-auditor:
-  ldap_users: []
+  ldap_users:
+  - heman
   users: []
   saml_users: []
   ldap_groups: []
