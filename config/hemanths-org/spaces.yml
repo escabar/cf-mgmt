@@ -2,4 +2,5 @@ org: hemanths-org
 spaces:
 - dev-app
 - ""
+- test-web
 enable-delete-spaces: true
