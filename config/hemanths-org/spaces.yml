@@ -1,0 +1,4 @@
+org: hemanths-org
+spaces:
+- dev-app
+enable-delete-spaces: true
