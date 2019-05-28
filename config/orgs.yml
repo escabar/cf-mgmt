@@ -9,6 +9,7 @@ orgs:
 - cats-org
 - hemanths-org
 - my-org
+- ochoas-org
 enable-delete-orgs: true
 protected_orgs:
 - system
