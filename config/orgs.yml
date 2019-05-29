@@ -11,6 +11,7 @@ orgs:
 - my-org
 - ochoas-org
 - rays-org
+- dev-web
 enable-delete-orgs: true
 protected_orgs:
 - system
