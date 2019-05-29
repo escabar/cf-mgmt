@@ -1,7 +1,6 @@
 org: rays-org
 org-billingmanager:
-  ldap_users:
-  - ray
+  ldap_users: []
   users: []
   saml_users: []
   ldap_groups: []
@@ -11,7 +10,8 @@ org-manager:
   saml_users: []
   ldap_groups: []
 org-auditor:
-  ldap_users: []
+  ldap_users:
+  - ray
   users: []
   saml_users: []
   ldap_groups: []

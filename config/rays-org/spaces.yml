@@ -1,4 +1,3 @@
 org: rays-org
-spaces:
-- ""
+spaces: []
 enable-delete-spaces: true
